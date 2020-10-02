@@ -1,0 +1,16 @@
+.drop-down{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 30px;
+}
+.select{
+    background-color: teal;
+    height: 35px;
+    width: 75px;
+    justify-self: flex-end;
+    align-self: flex-end;
+    color: white;
+    border-radius: 3px;
+    padding: 3px;
+    cursor: pointer;
+}
